@@ -1,15 +1,25 @@
-- 👋 Hi, I’m SINDHIYA
-- ### 🚀 About Me
-- 🎓 BE in Computer Science from Adhiyamaan College of Engineering
-- 💻 Python Full Stack developer | CCNA Certified
-- 🔍 Skills: Python, HTML, CSS, Django, SQL, Networking
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there! 👋 I'm Sindhiya
+🚀 **Full Stack Developer | CCNA Certified**
 
-<!---
-SINDHIYA18/SINDHIYA18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 **What I do:**
+- 🖥️ Web Development (Python, Django, HTML, CSS, SQL)
+- 🛠️ Full-Stack Projects (Backend + Frontend Integration)
+- 🌍 Networking (CCNA Certified)
+
+📫 **Connect with me:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sindhiya)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sindhiya1830@gmail.com)
+
+📌 **GitHub Stats:**
+![Sindhiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight)
+
+💡 **Languages & Tools:**
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![Django](https://img.shields.io/badge/-Django-092E20?&logo=django)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?&logo=mysql)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?&logo=css3)
+![CCNA](https://img.shields.io/badge/-CCNA-1BAEE0?&logo=cisco)
+
+---
+
